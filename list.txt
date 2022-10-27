@@ -1,0 +1,10 @@
+fandom.com##.wikia-bar-anon.wikia-bar
+fandom.com##.mcf-wrapper
+fandom.com##.rcs-container > div > center
+fandom.com##.global-navigation
+fandom.com##.global-footer
+fandom.com##.fandom-community-header__background.cover
+fandom.com##.page-header__top
+fandom.com##.is-visible.fandom-sticky-header
+fandom.com##.page-side-tools
+
